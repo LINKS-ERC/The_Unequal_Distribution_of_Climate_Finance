@@ -1,6 +1,6 @@
 # README
 
-### The unequal distribution of climate finance and it's underlying drivers
+### The Unequal Distribution of Climate Finance and it's Underlying Drivers
 *Jamie Rickman, Sumit Kothari, Francesca Larosa and Nadia Ameli*
 ___
 
