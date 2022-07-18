@@ -1,6 +1,6 @@
 # README
 
-### The Unequal Distribution of Climate Finance and it's Underlying Drivers
+### Investment suitability and path dependency perpetuate inequity in international mitigation finance towards developing countries
 *Jamie Rickman, Sumit Kothari, Francesca Larosa and Nadia Ameli*
 ___
 
